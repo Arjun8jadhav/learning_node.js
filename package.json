@@ -1,0 +1,14 @@
+{
+  "name": "mycontact-backend-api",
+  "version": "1.0.0",
+  "description": "this is express project for my backend contact api",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "arjun jadhav",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
